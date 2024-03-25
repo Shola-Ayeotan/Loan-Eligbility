@@ -1,5 +1,5 @@
 
-# Predicting Loan Eligibility using H20.ai and Deep Learning Algorithms
+# Loan Eligibility using H20.ai and Deep Learning Algorithms
 
 ## Project Overview
 
