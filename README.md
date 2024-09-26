@@ -58,4 +58,4 @@ Through this project, I demonstrated hands-on experience with:
 
 ## Contributing
 
-Contributions to improve the model or extend the project are welcome. Please follow the standard pull request process to submit your contributions.
+Contributions to improve the model or extend the project are welcome. 
